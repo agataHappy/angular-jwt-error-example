@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
+# Repo for Issue #1908 in rules_nodejs repo
+This repo is for Issue [#1908](https://github.com/bazelbuild/rules_nodejs/issues/1908) in rules_nodejs repo. 
+You should use `yarn bazel build //src` and `yarn ibazel run //src:devserver` to see error in browser
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
